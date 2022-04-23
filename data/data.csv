@@ -1,0 +1,8 @@
+﻿BusinessName,FirstName,MiddleName,LastName,ProviderLicenseNumber,LicenseEffectiveDate,LicenseExpirationDate,Status,NumberofChildren,QRISRating,DateofMostRecentInspection,PhoneNumber,EmailAddress,Physical,Military,CareOf,AddressLine1,AddressLine2,City,State,Zip,Mailing,CareOf,AddressLine1,AddressLine2,City,State,Zip
+John Denver,,,,1-20-00012-F,1/1/2021,1/1/2022,Active,6,3,12/27/2020,7012224444,denver@gmail.com,,No,,1 Oak Rd,Suite 4,Fargo,ND,58505,,John Denver,PO BOX 5421,,Fargo,ND,58505
+Radiant Little Lambs Daycare Center,,,,21-40-1122-C,6/20/2021,6/20/2023,Suspended,22,2,9/12/2021,7012235556,RADIANT@GMAIL.COM,,No,,4 Bend Ave,Unit 4,Minot,ND,58701,,,20 Pine Rd,,Minot,ND,58701
+MSU Child Development Program - Portland,,,,49-85-7711-C,4/6/2021,4/6/2022,Not Renewed,20,2,4/1/2021,7013334444,msu@program.com,,No,,2 West Dr,,Bismarck,ND,58506,,,2 West Dr,,Bismarck,ND,58506
+Little Saints -upper,,,,21-88-1370-H,5/14/2020,5/14/2022,Active,12,4,5/10/2021,7011111001,saints@yahoo.com,,No,,3 Maple Rd,,Grand Forks,ND,58201,,Julie Smith,PO Box 1,,Grand Forks,ND,58201
+Paige Johnson,,,,23-86-8043-G,9/16/2021,9/16/2022,Revoked,10,1,10/2/2021,7015556666,pj@provider.com,,Yes,Paige Johnson,1 Barracks Way,Unit 1,Minot,ND,58701,,,PO Box 22,,Minot,ND,58701
+Little Lambs Learning Center,,,,30-87-52161-M,4/19/2022,4/19/2023,Denied,30,2,3/26/2022,7016668888,lambs@center.com,,No,,5 Center Ave,,Fargo,ND,58505,,,5 Center Ave,,Fargo,ND,58505
+Madison NaDeau,,,,40-83-3002-S,4/18/2022,4/18/2023,Active,5,,3/20/2022,7015559999,nadeau@gmail.com,,No,,11 Grove Way,Apt 2,Bismarck,ND,58506,,,11 Grove Way,Apt 2,Bismarck,ND,58506
